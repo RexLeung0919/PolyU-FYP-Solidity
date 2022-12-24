@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 // Our first contract is a faucet!
 contract Divide{
